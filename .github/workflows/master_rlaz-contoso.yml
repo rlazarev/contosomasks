@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'rlaz-contoso'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1418EF720001482FBCBF9485EB2FF245 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A3D3C9CBF4264632949A6899F683A4E6 }}
           package: .
